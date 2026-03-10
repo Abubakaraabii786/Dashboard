@@ -78,4 +78,5 @@ Open http://localhost:8501 in your browser.
 - **Streamlit** — Web framework
 - **Plotly** — Interactive charts
 - **Pandas** — Data processing
+
 - **Google Sheets** — Live data source (public CSV export)
